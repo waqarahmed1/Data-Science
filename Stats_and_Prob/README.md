@@ -20,7 +20,7 @@ Reviewing statistical concepts with probability wich are foundational for machin
      * Exponential
      * Gaussian
  
-*  Inequalities (Markov, Chebyshev, MGF & Law of large numbers) and Limits (Chrnoff Bound and Central Limit Theorem)
+*  Inequalities (Markov, Chebyshev, MGF & Law of large numbers) and Limits (Chernoff Bound and Central Limit Theorem)
 *  Parameter Estimation and Confidence Interval
 *  Regression (Linear and Polynomial) and Principal Component Analysis (PCA)
 *  Hypothesis Testing (P Values, Z and T tests)
