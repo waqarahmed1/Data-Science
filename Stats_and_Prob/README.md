@@ -2,7 +2,7 @@
 
 ## Statistics and Probability using Python
 
-Reviewing statistical concepts with probability wich are foundational for machine learning, covering:
+Reviewing statistical concepts with probability, foundational for machine learning, covering:
 
 * Set Thorey
 * Combinatronics
