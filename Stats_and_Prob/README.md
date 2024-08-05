@@ -10,14 +10,12 @@ Reviewing statistical concepts with probability wich are foundational for machin
 * Conditional Probaility
 * Random variables, Cumulative Dist, Expectation, Varaince and Covariance
 *  Discrete Distribution Families
-  
      * Bernoulli
      * Binomial
      * Poisson
      * Geometric
  
 *  Continuos Distribution Families
-
      * Uniform
      * Exponential
      * Gaussian
