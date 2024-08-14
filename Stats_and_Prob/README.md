@@ -4,10 +4,10 @@
 
 Reviewing statistical concepts with probability, foundational for machine learning, covering:
 
-* Set Thorey
+* Set Theory
 * Combinatronics
 * Probability (Axiomatic Formulations)
-* Conditional Probaility
+* Conditional Probability
 * Random variables, Cumulative Dist, Expectation, Varaince and Covariance
 *  Discrete Distribution Families
      * Bernoulli
@@ -15,7 +15,7 @@ Reviewing statistical concepts with probability, foundational for machine learni
      * Poisson
      * Geometric
  
-*  Continuos Distribution Families
+*  Continuous Distribution Families
      * Uniform
      * Exponential
      * Gaussian

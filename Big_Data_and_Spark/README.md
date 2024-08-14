@@ -5,7 +5,7 @@ Reviewing Machine Learning concepts and their practical application through Spar
 * Spark, PySpark infrastructure setup 
 * MapReduce concepts and RDD's
 * Spark SQL and DataFrames
-* Covariance and Principle Component Analysis (PCA) with Python 
+* Covariance and Principal Component Analysis (PCA) with Python 
 * PCA Coefficients and PCA Residuals with Python
 * K-Means Clustering and Intrinsic Dimensions
 * Decision Trees,Ensembles and Boosting
