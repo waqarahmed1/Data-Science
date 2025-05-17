@@ -9,7 +9,6 @@ Deep dive across four main sections:
 - 3. Machine Learning Fundamentals
 - 4. Big Data and Spark
 
-
 ## 1 Python for data Science
 
 Covers foundational Python concepts utilised for data analysis, covering:
